@@ -30,8 +30,6 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    
-    //喵里个咪
 
     // 设置导航栏属性
     [self setupNavBar];
