@@ -50,11 +50,6 @@
     [self.textView becomeFirstResponder];
 }
 
-- (void)testMiao
-{
-    NSLog(@"miao");
-}
-
 /**
  *  设置导航栏属性
  */
