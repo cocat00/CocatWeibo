@@ -101,8 +101,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		26DF32CFCBB95E69129E7F17 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
-		6333497D5BCC47CF50A5D15D /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		86CEB4A4A4E7D0A98508F714 /* libPods-CocatWeibo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CocatWeibo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F196F1F2C63878744B98D66D /* Pods-CocatWeibo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CocatWeibo.release.xcconfig"; path = "Pods/Target Support Files/Pods-CocatWeibo/Pods-CocatWeibo.release.xcconfig"; sourceTree = "<group>"; };
 		F503B80E1C04591900686AD2 /* UIBarButtonItem+CJ.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+CJ.h"; sourceTree = "<group>"; };
@@ -281,8 +279,6 @@
 		402F0E86192F7A305F291502 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				26DF32CFCBB95E69129E7F17 /* Pods.debug.xcconfig */,
-				6333497D5BCC47CF50A5D15D /* Pods.release.xcconfig */,
 				F526621C14B7CF4EA038CDCA /* Pods-CocatWeibo.debug.xcconfig */,
 				F196F1F2C63878744B98D66D /* Pods-CocatWeibo.release.xcconfig */,
 			);
