@@ -44,6 +44,11 @@
     [self setupPhotosView];
 }
 
+- (void)testMiao
+{
+    NSLog(@"testMiao");
+}
+
 - (void)viewDidAppear:(BOOL)animated
 {
     [super viewDidAppear:animated];
