@@ -12,6 +12,7 @@
 
 @interface CJOAuthTool : NSObject
 
+
 + (void)oAuthInfoWithParam:(CJOAuthParam *)param success:(void (^)(CJOAuthResult *result))success failure:(void (^)(NSError *error))failure;
 
 @end
